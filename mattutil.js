@@ -1,4 +1,4 @@
-var mattutils = (function() {
+var mattutil = (function() {
 my = {};
 
 function setAll(v,a) {
